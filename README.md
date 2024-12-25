@@ -25,7 +25,7 @@ Access to a testnet Sepolia
 1. Clone the Repository
 bash
 Copiar código
-git clone https://github.com/yourusername/chainlink-betting.git
+git clone https://github.com/batublockdev/Lottery-SmartContract-Chainlink.git
 cd chainlink-betting
 
 3. Install Dependencies
